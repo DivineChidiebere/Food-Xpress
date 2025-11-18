@@ -1,9 +1,4 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-Food Xpress
+# Welcome to Food Xpress
 
 Food Xpress is a responsive food ordering website built with HTML, CSS, Bootstrap 4, and JavaScript.
 It allows users to browse meals, place orders, and send them directly via WhatsApp — no backend or database needed.
